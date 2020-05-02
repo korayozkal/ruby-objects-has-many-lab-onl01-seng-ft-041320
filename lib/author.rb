@@ -1,6 +1,4 @@
 
-Viewed
-@@ -0,0 +1,32 @@
 class Author
   attr_accessor :name
 
